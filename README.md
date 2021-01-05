@@ -16,21 +16,36 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Functionalities done:
-1.) Google Login
+1.) Google Login 
+
 2.) Search For Users with word type sync
+
 3.) Chat with Users
+
   3.1) Send text messages
+  
   3.2) Send images via camera and gallery
+  
   3.3) Send seperate emoticons
+  
 4.) Video Call one-to-one only with user with mute and video on-off functionalities
+
 5.) Saving and deleteting user video call call logs with missed, dialed and recieved and time of call scenarios
+
 6.) Online and offline status
 
 # Functionalities To-do
+
 1.) Implement secure searching system with only required user being shown
+
 2.) Chatting with users:
+
   2.1) Send voice notes and videos
+  
   2.2) Send docs, pdfs, send polls, send locations
+  
 3.) In RTC, make phone calls to users via mobile number
+
   3.1) Make calls even when user is offline
+  
 4.) Push-down notifications on Chat recieved
